@@ -1,6 +1,12 @@
 # python-scrap-programathor-com-br
 Scraping from site programathor.com.br
 
+Este Scrap pega + de 1000 vagas de emprego no site e pega as seguintes informações e passa para o arquivo vagas.json
+id: link da vaga
+titulo da vaga
+infos: informações da vaga, nome da empresa, salario, nível
+skills: python, java, css
+data da vaga
 
 This Scrap gets a job ad on the website programathor.com.br
 catch a little more than 1000, according to code

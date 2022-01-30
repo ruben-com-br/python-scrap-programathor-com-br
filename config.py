@@ -1,0 +1,1 @@
+path_chrome_driver = 'C:\chrome\chromedriver.exe'
