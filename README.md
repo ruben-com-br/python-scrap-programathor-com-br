@@ -1,6 +1,8 @@
 # python-scrap-programathor-com-br
 Scraping from site programathor.com.br
 
+Resumindo extrai todas as vagas de emprego do site para um arquivo vagas.json
+
 Este Scrap pega + de 1000 vagas de emprego no site e pega as seguintes informações e passa para o arquivo vagas.json
 id: link da vaga
 titulo da vaga
